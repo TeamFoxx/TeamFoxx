@@ -1,39 +1,44 @@
-# 💻 Aurel Hoxha
+<h2> Hi, I'm Aurel Hoxha! <img src="https://media.tenor.com/YLGMGIrgkC4AAAAi/hello-there.gif" width="50"></h2>
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>A dedicated programmer and web designer based in Munich, Germany.
+Currently, I'm contributing to the <a href="https://www.bundeswehr.de/en/organization/the-cyber-and-information-domain-service">Cyber and Information Service of the Bundeswehr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 **`IT Soldier • Junior Developer • Referee • Web- Designer`**
-
-Heyaa! I'm Aurel, a dedicated programmer and web designer based in Munich, Germany. Currently, I'm contributing to the Cyber and Information Service of the Bundeswehr.
 
 ---
 
 ## 🧰 Languages and Tools
 
 ### Programming
-<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"/> &nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> &nbsp;
 
 ### Web Design
-<img align="left" alt="HTML5" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg"/> &nbsp;
-<img align="left" alt="CSS3" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg"/> &nbsp;
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"/> &nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> &nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> &nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> &nbsp;
 
 ### Databases
-<img align="left" alt="MongoDB" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg"/> &nbsp;
-<img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"/> &nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg"></code> &nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"></code> &nbsp;
 
 ### Adobe products
-<img align="left" alt="Adobe Photoshop" width="30px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png"/> &nbsp;
-<img align="left" alt="Adobe InDesign" width="30px" src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/in-design.png"/> &nbsp;
-<img align="left" alt="Adobe Illustrator" width="30px" src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg"/> &nbsp;
+<code><img height="30" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png"></code> &nbsp;
+<code><img height="30" src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/in-design.png"></code> &nbsp;
+<code><img height="30" src="https://www.svgrepo.com/show/452147/adobe-illustrator.svg"></code> &nbsp;
 
 ### Frameworks & Platforms
-<img align="left" alt="SAP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"/> &nbsp;
-<img align="left" alt="Sharepoint" width="30px" src="https://www.logolynx.com/images/logolynx/4c/4cf2ee6e2ad500d2deed82fe54063966.png"/> &nbsp;
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"></code> &nbsp;
+<code><img height="30" src="https://www.logolynx.com/images/logolynx/4c/4cf2ee6e2ad500d2deed82fe54063966.png"></code> &nbsp;
 
 ### Docker
-<img align="left" alt="Docker" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"/> &nbsp;
+<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"></code> &nbsp;
 
+---
 
-
-## Stats
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeamFoxx&show_icons=true&theme=dracula)
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people around the world</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
