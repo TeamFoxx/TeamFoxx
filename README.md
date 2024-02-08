@@ -1,15 +1,14 @@
 <h2> Hi, I'm Aurel Hoxha! <img src="https://media.tenor.com/YLGMGIrgkC4AAAAi/hello-there.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://github.com/TeamFoxx/TeamFoxx/blob/main/images/Developer%20activity-bro%20(1).svg" width="230">
 <p><em>A dedicated programmer and web designer based in Munich, Germany.
 Currently, I'm contributing to the <a href="https://www.bundeswehr.de/en/organization/the-cyber-and-information-domain-service">Cyber and Information Service of the Bundeswehr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 **`IT Soldier • Junior Developer • Referee • Web- Designer`**
 
----
-
-<details align="center">
-  <summary><h2>More about me</h2></summary>
+<details>
+	•••
+  <summary>More about me</summary>
   <p><em>
     As an IT soldier in the Cyber and Information Service of the Bundeswehr, I acquired comprehensive knowledge and practical experience in handling state-of-the-art information technology. My professional journey has acquainted me with various aspects of cybersecurity, network administration, and data analysis.
   </em></p>
@@ -20,11 +19,11 @@ Currently, I'm contributing to the <a href="https://www.bundeswehr.de/en/organiz
 ## 🧰 Languages and Tools
 
 <h4> Programming </h4>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> &nbsp;
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> &nbsp;
 
 <h4> Web Design </h4>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> &nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> &nbsp;
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> &nbsp;
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> &nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> &nbsp;
 
 <h4> Databases </h4>
@@ -42,10 +41,10 @@ Currently, I'm contributing to the <a href="https://www.bundeswehr.de/en/organiz
 
 <h4> Frameworks & Platforms </h4>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"></code> &nbsp;
-<code><img height="30" src="https://www.logolynx.com/images/logolynx/4c/4cf2ee6e2ad500d2deed82fe54063966.png"></code> &nbsp;
+<code><img height="35" src="https://www.logolynx.com/images/logolynx/4c/4cf2ee6e2ad500d2deed82fe54063966.png"></code> &nbsp;
 
 <h4> Docker </h4>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"></code> &nbsp;
+<code><img height="35" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"></code> &nbsp;
 
 ---
 
