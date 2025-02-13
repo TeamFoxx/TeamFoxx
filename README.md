@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Aurel Hoxha! <img src="https://media.tenor.com/YLGMGIrgkC4AAAAi/hello-there.gif" width="50"></h2>
 
-**`IT Soldier • Junior Developer • Referee • Web- Designer`**
+**`IT Soldier • Developer • Referee • Web- Designer`**
 
 <img align='right' src="https://github.com/TeamFoxx/TeamFoxx/blob/main/images/Developer%20activity-bro%20(1).svg" width="230">
 <p><em>A dedicated programmer and web designer based in Munich, Germany.
